@@ -1,1 +1,2 @@
 Tomb[[:space:]]of[[:space:]]Annihilation.pdf filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
